@@ -51,3 +51,11 @@ The present analysis underscores that age, education level, and physical activit
 
 In conclusion, a holistic approach addressing both demographic and lifestyle factors is essential for combating obesity. These findings offer valuable insights for public health initiatives targeting age-specific and educationally-informed strategies to foster healthy habits and reduce the national burden of obesity.
 
+**References - Datasets:**
+1. Centers for Disease Control and Prevention. (n.d.). Nutrition, Physical Activity, and Obesity Behavioral Risk Factor Surveillance System (BRFSS). Chronic Data. https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7 (Website as of October 3)
+
+2. Centers for Disease Control and Prevention. (2023). 2023 BRFSS codebook.
+https://www.cdc.gov/brfss/annual_data/2023/zip/codebook23_llcp-v2-508.zip
+
+3. U.S. Government Open Data Portal. (n.d.). Nutrition, Physical Activity, and Obesity Behavioral Risk Factor Surveillance System. Data.gov. https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system (Website as of October 3)
+
