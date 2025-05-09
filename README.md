@@ -19,6 +19,7 @@ analysis and insights.
 # EDA
 **1.Obesity Distribution Across Age and Education**
 Figure 1 depicts that young adults(18-24) show the lowest obesity rates than elder adults. Figure 2 depicts that less educated adults(less than high school) show the highest obesity rates than college graduates.
+
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/13d52d16-4bb8-450e-9e5f-c315a32d4583" />
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/5858eaa7-8c25-49df-a1c1-541c82f18336" />
 
