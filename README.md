@@ -1,5 +1,7 @@
 # Factors-Influencing-Obesity-in-the-United-States-A-Demographic-and-Lifestyle-Analysis
 
+Full Report : https://github.com/Haripriya9851/Factors-Influencing-Obesity-in-the-United-States-A-Demographic-and-Lifestyle-Analysis/blob/main/ALY6010_HaripriyaR_Finalproject_Report.pdf 
+
 This study examines the influence of demographic and lifestyle factors on obesity rates in the
 United States—a pressing public health issue closely tied to chronic diseases, including heart
 disease, diabetes, and certain cancers. Understanding the demographic and lifestyle contributors
