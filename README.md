@@ -27,7 +27,7 @@ Figure 1 depicts that young adults(18-24) show the lowest obesity rates than eld
 
                 
 **3.Distribution of physical activity Across Demographics**
-Figure 3 show the obesity distribution of physical activity (muscle exercises, aerobic activity) across demographics. Higher Education, higher income has high physical activity which indicate education is an essential factor.
+Figure 3 show the obesity distribution of physical activity (muscle exercises, aerobic activity) across demographics. Female does aerobics more. Highly educated and earning Mid-aged people does both aerobic and muscle. 40+ people does aerobics mostly.
 
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/43e731c0-eb42-43d4-becc-45bc99b1e812" />
 
