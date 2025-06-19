@@ -49,7 +49,10 @@ The analysis provides a comprehensive look at factors influencing obesity in the
 3.	**Physical Activity:** A strong negative correlation exists between physical activity levels and BMI, indicating that increased physical activity is crucial for obesity prevention.
 
 ## Conclusion
-The present analysis underscores that age, education level, and physical activity significantly influence obesity rates in the United States. Age emerged as a key predictor, with older adults showing higher obesity prevalence, consistent with national health statistics (Centers for Disease Control and Prevention [CDC], 2023). Educational attainment also correlated with obesity, as those without a college degree showed higher BMI levels, supporting the idea that educational interventions could play a role in promoting healthier lifestyles. Physical activity demonstrated a negative association with obesity, suggesting that it is an essential factor in managing body weight and reducing obesity-related health risks.
+- The present analysis underscores that age, education level, and physical activity significantly influence obesity rates in the United States.
+- Age emerged as a key predictor, with older adults showing higher obesity prevalence, consistent with national health statistics (Centers for Disease Control and Prevention [CDC], 2023).
+- Educational attainment also correlated with obesity, as those without a college degree showed higher BMI levels, supporting the idea that educational interventions could play a role in promoting healthier lifestyles.
+- Physical activity demonstrated a negative association with obesity, suggesting that it is an essential factor in managing body weight and reducing obesity-related health risks.
 
 In conclusion, a holistic approach addressing both demographic and lifestyle factors is essential for combating obesity. These findings offer valuable insights for public health initiatives targeting age-specific and educationally-informed strategies to foster healthy habits and reduce the national burden of obesity.
 
